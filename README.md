@@ -125,7 +125,7 @@ Conflitos acontecem quando duas pessoas alteram o mesmo arquivo. Para resolver:
 5. Enviem o PR para revisão.
 
 ---
-**
+```bash
 EventManager/
 │── frontend/
 │   ├── public/
@@ -168,4 +168,4 @@ EventManager/
 │── .gitignore
 │── [README.md](http://readme.md/)
 │── docker-compose.yml
-**
+```
